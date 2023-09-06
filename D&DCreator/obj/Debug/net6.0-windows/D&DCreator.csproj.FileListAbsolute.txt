@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\bin\Debug\net6.0-windows\D&DCreator.exe
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\bin\Debug\net6.0-windows\D&DCreator.deps.json
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\bin\Debug\net6.0-windows\D&DCreator.runtimeconfig.json
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\bin\Debug\net6.0-windows\D&DCreator.dll
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\bin\Debug\net6.0-windows\D&DCreator.pdb
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D_DCreator.Form1.resources
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.AssemblyInfo.cs
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.dll
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\refint\D&DCreator.dll
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.pdb
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D&DCreator.genruntimeconfig.cache
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\ref\D&DCreator.dll
+C:\Users\PC\Desktop\Gamess\D&DCreator\D&DCreator\obj\Debug\net6.0-windows\D_DCreator.SettingsForm.resources
